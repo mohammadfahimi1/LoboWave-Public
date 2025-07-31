@@ -33,9 +33,11 @@ Whether you're an employer, recruiter, or fellow developer, you can preview the 
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the template with attribution.
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute the template with attribution.  
 
-See [`LICENSE`](./LICENSE) for full details.
+See the [LICENSE](./LICENSE) file for full details.
+
 
 ---
 
