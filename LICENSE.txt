@@ -1,0 +1,14 @@
+Copyright (c) 2025 Mohammad Fahimi
+
+All rights reserved.
+
+This template, including all code, design, assets, and content, is the exclusive intellectual property of Mohammad Fahimi.
+
+You are strictly prohibited from copying, modifying, distributing, selling, sublicensing, or using this template or any part of it in any form or by any means without explicit written permission from the author.
+
+Viewing the online demo is permitted solely for evaluation purposes.  
+Downloading, using, or repurposing this template without prior authorization is forbidden.
+
+Any unauthorized use will be considered a violation of copyright laws and may result in legal action.
+
+For permissions, licensing inquiries, or collaboration, please contact: Mohammad.fahimi1404@gmail.com
