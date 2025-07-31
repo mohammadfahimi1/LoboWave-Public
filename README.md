@@ -25,6 +25,7 @@ Whether you're an employer, recruiter, or fellow developer, you can preview the 
 - 🔍 Basic Accessibility Support (Keyboard Navigation, Landmarks)
 - 📚 Multi-section layout including:
   - Homepage
+  - Sevices
   - About
   - Contact
 
